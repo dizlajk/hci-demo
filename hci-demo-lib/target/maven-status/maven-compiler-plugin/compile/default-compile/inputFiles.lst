@@ -1,0 +1,9 @@
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/service/ITypicodeService.java
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/config/Config.java
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/dto/Result.java
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/client/TypicodeClient.java
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/dto/Post.java
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/Application.java
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/dto/User.java
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/client/ITypicodeClient.java
+/home/martin/work/hci-demo/hci-demo-lib/src/main/java/demo/service/TypicodeService.java

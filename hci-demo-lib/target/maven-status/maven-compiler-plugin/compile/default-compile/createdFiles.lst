@@ -1,0 +1,9 @@
+demo/Application.class
+demo/config/Config.class
+demo/dto/Result.class
+demo/client/ITypicodeClient.class
+demo/service/ITypicodeService.class
+demo/client/TypicodeClient.class
+demo/service/TypicodeService.class
+demo/dto/Post.class
+demo/dto/User.class
